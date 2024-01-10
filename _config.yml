@@ -12,12 +12,12 @@ url: "https://mobinafarzaneh.github.io/labexam" # the base hostname & protocol f
 social:
   name: mobinafarzaneh
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://twitter.com/mobina
+    - https://www.facebook.com/mobina
+    - https://www.linkedin.com/in/mobina
+    - https://plus.google.com/mobina
+    - https://github.com/mobina
+    - https://keybase.io/mobina
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -25,6 +25,7 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
   - {name: 'Courses', link: '/Courses'}
+  - {name: 'Academic Calendar', link: '/Academic Calendar'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
